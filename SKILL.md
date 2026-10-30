@@ -6,6 +6,7 @@ description: >
   manuscript–solver inconsistencies, unsupported claims and reproducibility gaps without
   inventing absent settings.
 version: 1.0
+  中文触发：Fluent 设置核查、求解器参数对照、仿真设置一致性；English triggers: Fluent settings cross-check, solver manuscript consistency.
 ---
 
 # Fluent Setting Checker
@@ -304,3 +305,7 @@ Do not:
 - assume a journal file was executed successfully
 - call something a mismatch when only one side is available
 - recommend re-running unless a real configuration error is established
+
+## Optional v3 research-group interface
+
+This Skill remains standalone. For genuine cross-Skill work only, read `references/research-group-interop-v3.md`. Own **Compare manuscript-reported solver settings against supplied Fluent setup, journals and logs**; do not take over **Claiming an actual solver setting was checked without the underlying file**. Confirm actual specialist availability, carry source/version into the handoff, keep one root-issue owner and avoid a duplicate full review.
