@@ -67,3 +67,10 @@ Identify the production run before flagging configuration conflicts.
 A DPM specialist reference is included for particle size, injection, force models, coupling, wall interaction, deposition and tracking settings.
 
 Created by **Wendy.z**.
+
+## Copyright & Licence
+
+Author / Copyright holder: **wendy.z** ([GitHub: Wendy-skill](https://github.com/Wendy-skill)).
+
+Except for material carrying a separate notice, original material by wendy.z in this repository is licensed under the Apache License, Version 2.0. Commercial use, modification, and redistribution are permitted subject to its terms, including retaining applicable copyright, license, and NOTICE notices and marking modified files. Apache-2.0 does not grant trademark or endorsement rights. See [LICENSE](LICENSE) and [NOTICE](NOTICE). The citation metadata is in [CITATION.cff](CITATION.cff).
+

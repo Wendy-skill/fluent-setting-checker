@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this Skill, please cite it using these metadata."
+type: software
+title: "Fluent Setting Checker"
+authors:
+  - given-names: "wendy.z"
+    alias: "Wendy-skill"
+abstract: >-
+  An evidence-first Skill for checking whether a CFD manuscript's Methods section matches the ANSYS Fluent setup actually used.
+repository-code: "https://github.com/Wendy-skill/fluent-setting-checker"
+license: Apache-2.0
